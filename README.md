@@ -1,2 +1,1 @@
-#### Este es un repo para un nuevo proyecto GCP
-
+# Este es un repo para un nuevo proyecto GCP
